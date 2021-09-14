@@ -26,7 +26,7 @@
       <div>
         <nav>
           <ul class="menu">
-            <li class="current"><a href="index.php">Home</a></li>
+            <li class="current"><a href="#">Home</a></li>
             <li><a href="#">Productos</a></li>
             <li><a href="#">Usuarios</a></li>
             <li><a href="#">Estadisticas</a></li>
